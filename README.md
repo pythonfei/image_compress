@@ -1,2 +1,3 @@
 # image_compress
-reduce image size
+reduce image size;
+Thank you read
